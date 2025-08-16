@@ -1,1 +1,2 @@
 The use of this file is to store docs inside it.
+Click the folder to show the contents inside.
